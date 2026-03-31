@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ハナミズキ",
   "base_artist": "一青窈",
-  "createdAt": "2026-03-03T15:23:56.826335Z",
+  "createdAt": "2026-03-31T13:32:01.021459Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -123,6 +123,33 @@
       "artist": "一青 窈",
       "has_synced": false,
       "path": "select/pl_01_ハナミズキ_一青_窈.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ハナミズキ",
+      "artist": "一青窈",
+      "has_synced": true,
+      "path": "select/localdb_01_ハナミズキ_一青窈.lrc",
+      "repo_name": "TngUo1gDNOg"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ハナミズキ",
+      "artist": "一青窈",
+      "has_synced": false,
+      "path": "select/localdb_02_ハナミズキ_一青窈.txt",
+      "repo_name": "jj3T_4tbTvs"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "ハナミズキ",
+      "artist": "一青窈",
+      "has_synced": false,
+      "path": "select/localdb_03_ハナミズキ_一青窈.txt",
+      "repo_name": "faS4YTBRCz4"
     }
   ]
 }
